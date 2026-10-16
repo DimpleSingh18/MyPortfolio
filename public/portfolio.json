@@ -1,15 +1,15 @@
 {
-  "name": "Aarav Sharma",
+  "name": "Dimple Singh",
   "role": "Aspiring Full Stack Developer",
   "tagline": "Building modern web experiences with React.",
   "about": "I am a computer science student passionate about web development and solving real-world problems.",
   "goals": "I want to join a product team as a full stack developer and keep learning from experienced engineers.",
   "interests": ["Web development", "Open source", "Problem solving", "UI design"],
   "profileImage": "/profile.png",
-  "email": "aarav@example.com",
+  "email": "dimple1818singh@gmail.com",
   "socials": {
-    "github": "https://github.com/",
-    "linkedin": "https://linkedin.com/"
+    "github": "https://github.com/DimpleSingh18",
+    "linkedin": "https://www.linkedin.com/in/dimple-singh-339039372/"
   },
   "skills": [
     { "category": "Frontend", "items": ["HTML", "CSS", "JavaScript", "React.js"] },
@@ -23,7 +23,7 @@
       "title": "Student Management System",
       "description": "A simple application to manage student records.",
       "technologies": ["React", "CSS", "Node.js"],
-      "github": "https://github.com/",
+      "github": "https://github.com/DimpleSingh18",
       "demo": "https://example.com/"
     },
     {
@@ -31,7 +31,7 @@
       "title": "Weather Application",
       "description": "A responsive application displaying weather information.",
       "technologies": ["React", "CSS", "JavaScript"],
-      "github": "https://github.com/",
+      "github": "https://github.com/DimpleSingh18",
       "demo": "https://example.com/"
     },
     {
@@ -39,14 +39,14 @@
       "title": "Task Management Application",
       "description": "An application for organizing everyday tasks.",
       "technologies": ["React", "CSS", "JavaScript"],
-      "github": "https://github.com/",
+      "github": "https://github.com/DimpleSingh18",
       "demo": "https://example.com/"
     }
   ],
   "education": [
     {
       "degree": "Bachelor of Computer Applications",
-      "college": "ABC College",
+      "college": "GL Bajaj College Of Management, Gr. Noida",
       "year": "2026",
       "description": "Studying programming and web development."
     }
